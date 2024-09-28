@@ -14,12 +14,12 @@ Bookings is a platform for renting local accommodations, similar to Airbnb. User
 - **Frontend**: React, Tailwind CSS, Vite
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Payment Gateway**: Stripe
-- **Maps Integration**: Google Maps API
+
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bookings.git
+   git clone https://github.com/soltanAmen/bookings.git
+   
 
